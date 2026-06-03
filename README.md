@@ -1,0 +1,2 @@
+# TFG-Comparaci-n-de-modelos-de-ML-para-la-predicci-n-e-interpretaci-n-de-la-adherencia
+Análisis completo del problema de la adherencia a tratamientos farmacológicos mediante técnicas de ciencia de datos y aprendizaje automático. El objetivo principal es comparar distintos modelos supervisados para predecir la adherencia de los pacientes, así como complementar el análisis con técnicas de interpretabilidad y segmentación.
